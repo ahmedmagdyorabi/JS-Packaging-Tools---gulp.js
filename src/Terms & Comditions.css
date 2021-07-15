@@ -1,0 +1,173 @@
+/* header */
+
+.dropdown-menu {
+    width: 200px;
+
+}
+
+li:hover{
+    background-color: orangered;
+    color: white;
+}
+
+#changeBtn{
+    border: 1px orangered solid;
+    color: orangered;
+}
+
+
+
+/* footer */
+@import url(https://fonts.googleapis.com/css?family=Rubik:300,400,500,700);
+
+body {
+    font-family: Rubik, sans-serif;
+    position: relative;
+    font-weight: 400;
+    font-size: 10px;
+}
+
+ul {
+    padding: 0;
+    margin: 0
+}
+
+li {
+    list-style: none
+}
+
+a:focus,
+a:hover {
+    text-decoration: none;
+    -webkit-transition: .3s ease;
+    -o-transition: .3s ease;
+    transition: .3s ease
+}
+
+a:focus {
+    outline: 0
+}
+
+
+
+h4 {
+    font-family: Rubik, sans-serif;
+    margin: 0;
+    font-weight: 400;
+    padding: 0;
+    color: #363940
+}
+
+a {
+    color: #5867dd
+}
+
+.no-padding {
+    padding: 0 !important
+}
+
+
+
+.footer-big {
+    padding: 105px 0 65px 0
+}
+
+.footer-big .footer-widget {
+    margin-bottom: 40px
+}
+
+.footer--light {
+    background: #e7e8ed
+}
+
+.footer-big .footer-menu ul li a,
+.footer-big p,
+.footer-big ul li {
+    color: #808185
+}
+
+.footer-menu {
+    padding-left: 48px
+}
+
+.footer-menu ul li a {
+    
+    line-height: 32px;
+    -webkit-transition: .3s;
+    -o-transition: .3s;
+    transition: .3s;
+    color: #5c5c5c;
+    font-size: 15px; 
+}
+
+.footer-menu ul li a:hover {
+    color: #e5533a
+}
+
+.footer-menu--1 {
+    width: 100%
+}
+
+
+
+
+#elmenus {
+    height: 80px;
+    width: 200px;
+}
+
+.text-center a{
+    background-color: #e5533a;
+}
+
+.text-center a:hover{
+    background-color: #e5533a;
+}
+
+
+
+
+
+/* =========================================== */
+
+
+.footer-small .footer-mini-link a
+ {
+    color: #5c5c5c;
+    font-size: 15px; 
+       
+}
+
+.footer-small .footer-mini-link h4
+ {
+    color: #898b96;
+    font-size: 10px;    
+}
+
+.widget-about a{
+    color: #999;
+    padding-right: 5px;
+    font-size: 25px;
+
+}
+.widget-about a:hover{
+   color: #e5533a;
+
+}
+
+
+
+#close-image img {
+    display: block;
+    height: 80px;  
+    width: 250px;
+    border: 1px;
+    border-color: white;
+}
+
+
+footer-mini footer-mini--5 {
+    color: #898b96;
+    font-size: 10px;  
+
+}
